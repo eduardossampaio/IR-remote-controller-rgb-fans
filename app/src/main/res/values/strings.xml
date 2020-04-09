@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IR Fan controller</string>
+    <string name="mainboard_sync_manual_n_fan_rgb_control_system"><![CDATA[MainBoard Sync & Manual \n Fan/RGB Control System]]></string>
+    <string name="preset_1">PRESET 1</string>
+    <string name="preset_2">PRESET 2</string>
+    <string name="preset_3">PRESET 3</string>
+    <string name="preset_4">PRESET 4</string>
+    <string name="breath">BREATH</string>
+    <string name="mb_sync">M/B sync</string>
+    <string name="hold">HOLD</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="fan_speed">FAN\nSPEED</string>
+</resources>
