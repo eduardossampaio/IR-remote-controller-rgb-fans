@@ -1,12 +1,15 @@
 # IR FAN CONTROLLER
 
 ## About
+
     Just another IR controller Android app
 
 ## Moitvation
+
     Few years ago, i bought a set of RGB fans from Aigo, controlled by IR remote. Since my motherboard doesn't have Aura sync or similar, this is the only way to change colors from my fans.
 
-![IR Remote Controller](media/IR-remote-controller.jpeg )
+
+<img src="media/IR-remote-controller.jpeg" alt="IR Remote Controller" width="300"/>
 
     I lost the IR controller and found it again, and now it's starting to break. To avoid being unable to control my fans, I decide to it on my startphone.
 
@@ -19,7 +22,7 @@ How I create this app:
 
 ## Final result
 
-![Final App](media/app-screenshot.jpeg )
+<img src="media/app-screenshot.jpeg" alt="Final App" width="300"/>
 
 Now I can control my RGB fans using my mobile.
 
